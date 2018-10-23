@@ -2,6 +2,7 @@
  * byteimage.h, written by Brian Jackson, CSE Dept., WSU
  * A simple, single-channel image class
  */
+#pragma once
 
 #include <cstdio>
 #include <cstring>
