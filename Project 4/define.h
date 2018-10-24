@@ -7,6 +7,8 @@
 
  */
 
+#pragma once
+
 #include <iostream> // Used for debugging & learning code
 #include <algorithm> // Use for sorting
 #include <cstdio>
